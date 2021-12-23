@@ -25,4 +25,4 @@ This APP reads from (and writes to) a meta.dat file created from HDD Satellite R
 You MAY CHANGE the code, but do it AT YOUR OWN RISK. I spent six days for finding a working solution, so be happy that I maintaining this repository.
 
 
-(c) 2021-2022 "RenderedIdeas_LAB" alias "achief-ws" alias "Danilo BLEUL"
+(c) 2021-2022 "renderedideas-lab" alias "achief-ws" alias "Danilo BLEUL"
