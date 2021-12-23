@@ -18,7 +18,7 @@ This APP reads from (and writes to) a meta.dat file created from HDD Satellite R
 - [ ] Combining everything (adding of video files to the receiver HDD with modified meta.dat files)
 
 ## 🔋 This repository contains:
-- [x] the .dpr-file with the source code so you can open it in the Delphi IDE
+- [x] the .dproj- and .dpr-files with the source code so you can open and modify the APP in the Delphi IDE
 - [x] a pre-compiled .exe for the Win32 platform
 
 ## ‼️ ATTENTION:
